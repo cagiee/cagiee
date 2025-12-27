@@ -41,10 +41,3 @@ Designing intuitive experiences and pixel-perfect layouts.
   <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
 </p>
-
----
-
-### 📊 My Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagiee&show_icons=true&theme=radical" alt="Cagie's Stats" />
-</p>
